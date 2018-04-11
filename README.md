@@ -11,7 +11,6 @@ Hagelslag
 Boter
 Kaas
 
-voorgerecht
 toastjes 
 olijven
 
