@@ -10,3 +10,6 @@ Brood
 Hagelslag
 Boter
 Kaas
+
+toastjes 
+olijven
